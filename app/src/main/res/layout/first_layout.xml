@@ -17,10 +17,46 @@
         android:text="Finish"
         />
     <Button
-        android:id="@+id/button_3"
+    android:id="@+id/button_3"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="New Activity"
+    />
+    <Button
+        android:id="@+id/button_4"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="New Activity"
+        android:text="Hidden Intent"
+        />
+    <Button
+        android:id="@+id/button_5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Add Intent Category"
+        />
+    <Button
+        android:id="@+id/button_6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="百度"
+        />
+    <Button
+        android:id="@+id/button_7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Tel:10086"
+        />
+    <Button
+        android:id="@+id/button_8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Tranfer Message"
+        />
+    <Button
+        android:id="@+id/button_9"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Start Activity to get Result"
         />
 
 </LinearLayout>
