@@ -12,4 +12,18 @@
         android:text="Hello"
         />
 
+    <Button
+        android:id="@+id/button_2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Back to FirstActivity"
+        />
+
+    <Button
+        android:id="@+id/button_3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Go to ThirdActivity"
+        />
+
 </LinearLayout>
